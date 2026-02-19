@@ -1,1 +1,1 @@
-Sorting Algorithms Animator
+Sorting Algorithms

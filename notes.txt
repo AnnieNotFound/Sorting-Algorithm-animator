@@ -1,0 +1,2 @@
+git status - shows the status of the files
+git add <file.name> - adds the file 
